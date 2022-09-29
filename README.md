@@ -9,16 +9,18 @@ I'm Mikey Sison, a 3rd year Computer Science💻 and Environmental Science🌱 M
 ### 🔭Projects🔭
 
 
-##### 📖Research📖
+#### 📖Research📖
 * 🔬Research Assistant @ Tulane Department of Earth and Geological Sciences
 * 🌎 <a href= "https://github.com/yosemite-sam-anderson/flood_sed_transport"> *Modeling Sediment Transport for Variable Storm Events in* Last Chance Canyon, NM.</a>
   * <a href= "https://github.com/yosemite-sam-anderson/flood_sed_transport/tree/main/jupyter_example"> Jupyter Experiments </a>
 * 🌎 <a href= "https://github.com/mikafur32/PebbleCounts-Application-UI-and-Excel-Compiler"> Pebble Counts Excel Compiler </a>
-<br> </br>
+
 #### 🏫Personal and Class Projects🏫
+
 ##### Object Oriented Programming
 * 🗳️<a href= "https://github.com/mikafur32/JAVA-Voting-Machine-Project"> Java Voting Machine with Password Verification</a>
 * 🛒<a href= "https://github.com/mikafur32/C-Plus-Plus-Shopping-Project"> C++ Shopping List Application </a>
+
 ##### 🎮Java Games🎮
 * 🪢<a href= "https://github.com/mikafur32/Hangman"> Hangman </a>
 * 🟢<a href= "https://github.com/mikafur32/MasterMind"> MasterMind </a>
