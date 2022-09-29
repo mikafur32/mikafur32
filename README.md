@@ -14,9 +14,16 @@ I'm Mikey Sison, a 3rd year Computer Science💻 and Environmental Science🌱 M
 * 🌎 <a href= "https://github.com/yosemite-sam-anderson/flood_sed_transport"> *Modeling Sediment Transport for Variable Storm Events in* Last Chance Canyon, NM.</a>
   * <a href= "https://github.com/yosemite-sam-anderson/flood_sed_transport/tree/main/jupyter_example"> Jupyter Experiments </a>
 * 🌎 <a href= "https://github.com/mikafur32/PebbleCounts-Application-UI-and-Excel-Compiler"> Pebble Counts Excel Compiler </a>
-<br>
-#### 
-
+<br> </br>
+#### 🏫Personal and Class Projects🏫
+##### Object Oriented Programming
+* 🗳️<a href= "https://github.com/mikafur32/JAVA-Voting-Machine-Project"> Java Voting Machine with Password Verification</a>
+* 🛒<a href= "https://github.com/mikafur32/C-Plus-Plus-Shopping-Project"> C++ Shopping List Application </a>
+##### 🎮Java Games🎮
+* 🪢<a href= "https://github.com/mikafur32/Hangman"> Hangman </a>
+* 🟢<a href= "https://github.com/mikafur32/MasterMind"> MasterMind </a>
+* 🏁<a href= "https://github.com/mikafur32/Conway-s-Game-of-Life"> Conway's Game of Life </a>
+* 🔵<a href= "https://github.com/mikafur32/Connect-Four"> Connect 4 </a>
 
 <!--
 **mikafur32/mikafur32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
