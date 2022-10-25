@@ -22,9 +22,9 @@ I'm Mikey Sison, a 3rd year Computer Science💻 and Environmental Science🌱 M
 * 🛒<a href= "https://github.com/mikafur32/C-Plus-Plus-Shopping-Project"> C++ Shopping List Application </a>
 
 ##### 🎮Java Games🎮
+* 🏁<a href= "https://github.com/mikafur32/Conway-s-Game-of-Life"> Conway's Game of Life </a>
 * 🪢<a href= "https://github.com/mikafur32/Hangman"> Hangman </a>
 * 🟢<a href= "https://github.com/mikafur32/MasterMind"> MasterMind </a>
-* 🏁<a href= "https://github.com/mikafur32/Conway-s-Game-of-Life"> Conway's Game of Life </a>
 * 🔵<a href= "https://github.com/mikafur32/Connect-Four"> Connect 4 </a>
 
 <!--
