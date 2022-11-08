@@ -19,7 +19,7 @@ I'm Mikey Sison, a 3rd year Computer Science💻 and Environmental Science🌱 M
 
 ##### Machine Learning, Data Science, and Computer Vision
 * 📋<a href= "https://chriscallahan99.github.io/DataScience_Final_Project/ "> Where Does Foreign Aid Go? (Data Science WIP)</a>
-* 🦈<a href= "https://github.com/mikafur32/Shark-Species-Classification "> •	Shark Teeth Species Classification using Convolutional Neural Networks ( Computer Vision WIP) </a>
+* 🦈<a href= "https://github.com/mikafur32/Shark-Species-Classification "> Shark Teeth Species Classification using Convolutional Neural Networks ( Computer Vision WIP) </a>
 
 ##### Object Oriented Programming
 * 🗳️<a href= "https://github.com/mikafur32/JAVA-Voting-Machine-Project"> Java Voting Machine with Password Verification</a>
