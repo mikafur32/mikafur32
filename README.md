@@ -3,7 +3,7 @@ I'm Mikey Sison, a 3rd year Computer Science💻 and Environmental Science🌱 M
 
 ### ⚡About Me in 30 seconds⚡
 * 😁 Programming makes me laugh!
-* 🤹‍♂️ Skills in Computer Vision, Machine Learning (Scikit-learn), and Data Science (Pandas & SQL)
+* 🤹‍♂️ Skills in **Computer Vision, Machine Learning (Scikit-learn), and Data Science (Pandas & SQL)**
 * 🙌 Enthusiastic, outgoing, and fun person looking for the next opportunity in 🌱Climate and 🛰️Space
 ---
 ### 🔭Projects🔭
