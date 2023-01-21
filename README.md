@@ -8,6 +8,9 @@ I'm Mikey Sison, a 3rd year Computer Science💻 and Environmental Science🌱 M
 ---
 ### 🔭Projects🔭
 
+##### 🤖 Machine Learning, Data Science, and Computer Vision
+* 📋<a href= "https://chriscallahan99.github.io/DataScience_Final_Project/ "> How does US Foreign Aid Impact Health Outcomes?</a> 
+* 🦈<a href= "https://github.com/mikafur32/Shark-Species-Classification "> Shark Teeth Species Classification using Convolutional Neural Networks</a> (Computer Vision WIP) 
 
 #### 📖Research📖
 * 🔬Research Assistant @ Tulane Department of Earth and Geological Sciences
@@ -16,10 +19,6 @@ I'm Mikey Sison, a 3rd year Computer Science💻 and Environmental Science🌱 M
 * 🌎 <a href= "https://github.com/mikafur32/PebbleCounts-Application-UI-and-Excel-Compiler"> Pebble Counts Excel Compiler </a>
 
 #### 🏫Personal and Class Projects🏫
-
-##### Machine Learning, Data Science, and Computer Vision
-* 📋<a href= "https://chriscallahan99.github.io/DataScience_Final_Project/ "> Where Does Foreign Aid Go?</a> (Data Science WIP)
-* 🦈<a href= "https://github.com/mikafur32/Shark-Species-Classification "> Shark Teeth Species Classification using Convolutional Neural Networks</a> (Computer Vision WIP) 
 
 ##### Object Oriented Programming
 * 🗳️<a href= "https://github.com/mikafur32/JAVA-Voting-Machine-Project"> Java Voting Machine with Password Verification</a>
