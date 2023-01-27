@@ -22,7 +22,6 @@ I'm Mikey Sison, a 3rd year Computer Science💻 and Environmental Science🌱 M
 
 ##### Object Oriented Programming
 * 🗳️<a href= "https://github.com/mikafur32/JAVA-Voting-Machine-Project"> Java Voting Machine with Password Verification</a>
-* 🛒<a href= "https://github.com/mikafur32/C-Plus-Plus-Shopping-Project"> C++ Shopping List Application </a>
 
 ##### 🎮Java Games🎮
 * 🏁<a href= "https://github.com/mikafur32/Conway-s-Game-of-Life"> Conway's Game of Life </a>
