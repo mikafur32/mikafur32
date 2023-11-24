@@ -10,9 +10,9 @@ I'm Mikey Sison, a 4th year Computer Science💻 and Environmental Science🌱 M
 
 #### 📖Research📖
 * 🔬Research Assistant @ Tulane Department of Earth and Geological Sciences
- * 🌎 <a href= "https://github.com/yosemite-sam-anderson/flood_sed_transport"> *Modeling Sediment Transport for Variable Storm Events in* Last Chance Canyon, NM.</a>
-   * <a href= "https://github.com/yosemite-sam-anderson/flood_sed_transport/tree/main/jupyter_example"> Jupyter Experiments </a>
- * 🌊 *Private Repository* - Examining Hysteretic Streams Using Novel LSTM Ideas
+   * 🌎 <a href= "https://github.com/yosemite-sam-anderson/flood_sed_transport"> *Modeling Sediment Transport for Variable Storm Events in* Last Chance Canyon, NM.</a>
+     * <a href= "https://github.com/yosemite-sam-anderson/flood_sed_transport/tree/main/jupyter_example"> Jupyter Experiments </a>
+   * 🌊 *Private Repository* - Examining Hysteretic Streams Using Novel LSTM Ideas
   
 ##### 🤖 Machine Learning, Data Science, and Computer Vision
 * 🦈<a href= "https://github.com/mikafur32/Shark-Species-Classification "> Shark Teeth Species Classification using Convolutional Neural Networks</a>
