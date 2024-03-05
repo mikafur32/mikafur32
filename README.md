@@ -2,7 +2,7 @@
 I'm Mikey Sison, a 4th year Computer Science💻 and Environmental Science🌱 Major at Tulane University graduating 2️⃣0️⃣2️⃣4️⃣!
 
 ### ⚡About Me in 30 seconds⚡
-* 😁 Programming makes me laugh!
+* 😁 I'd rather laugh at bugs than get annoyed by them!
 * 🤹‍♂️ Skills in **Computer Vision, Machine Learning (TF, Keras, sklearn), and Data Science**
 * 🙌 Enthusiastic, outgoing, and fun person looking for the next opportunity in 🌱Climate and 🛰️Space
 ---
